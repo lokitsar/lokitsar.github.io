@@ -1,0 +1,10 @@
+{
+  "name": "eroprofile",
+  "author": "Cumination",
+  "version": "1",
+  "title": "EroProfile",
+  "url": "https://www.eroprofile.com",
+  "module_name": "eroprofile.py",
+  "image": "eroprofile.png",
+  "about": "eroprofile.txt"
+}
